@@ -1,1 +1,2 @@
-fortune: Config Servers are in your future
+fortune:
+  fallbackFortune: Config Servers are in your future

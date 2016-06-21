@@ -3,3 +3,5 @@ agency:
 demo:
   fallbackGuide: demo fallback
   greeting: the greeter
+newest: 
+  new: a new value

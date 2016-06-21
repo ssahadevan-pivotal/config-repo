@@ -1,7 +1,7 @@
 agency:
   fallbackGuide:  The config server is your guide in OLD_VALUE_TODAY!
 demo:
-  fallbackGuide: demo fallback
+  fallbackGuide: demo fallback1
   greeting: the greeter
 newest: 
   new: a new value

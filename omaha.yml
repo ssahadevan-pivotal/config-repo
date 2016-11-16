@@ -1,2 +1,5 @@
 fortune:
   fallbackFortune: November 16, is Omaha's Lucky Day
+
+hello:
+  config-message: Hello Cloud Native Workshop Attendees
